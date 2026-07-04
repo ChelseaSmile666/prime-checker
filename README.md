@@ -1,2 +1,2 @@
-# prime-checler
+# prime-checker
 github copilot test
